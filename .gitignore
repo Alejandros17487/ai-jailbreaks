@@ -1,0 +1,13 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Local tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

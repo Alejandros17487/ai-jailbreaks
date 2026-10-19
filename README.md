@@ -39,6 +39,12 @@ What's inside:
 
 New here? Skim the [collection](#collection) or jump to [how to use](#how-to-use).
 
+## Recent updates
+
+- **2026-10-19** — refreshed the 7API banner, added a **Visit website** button,
+  and added [CONTRIBUTING.md](./CONTRIBUTING.md), [SECURITY.md](./SECURITY.md),
+  and [CHANGELOG.md](./CHANGELOG.md).
+
 > [!WARNING]
 > **Research and educational use only.**
 >
@@ -164,7 +170,8 @@ Swap the model name and source file as needed.
 
 ## Contributing
 
-Pull requests are welcome. Follow these conventions:
+Pull requests are welcome. The full guide lives in
+[CONTRIBUTING.md](./CONTRIBUTING.md); the essentials:
 
 1. **One prompt per file**, named lowercase with hyphens and no spaces:
    ```text
@@ -179,6 +186,8 @@ Pull requests are welcome. Follow these conventions:
 5. **Keep claims honest** — don't advertise compatibility you haven't tested.
 
 Found something that no longer behaves as documented? An issue with the model, version, and affected file is already a big help.
+
+Changes are tracked in [CHANGELOG.md](./CHANGELOG.md).
 
 ## Disclaimer
 
