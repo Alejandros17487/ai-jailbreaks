@@ -1,8 +1,8 @@
 <div align="center">
 
-# Jailbreaks
+# AI Jailbreaks
 
-**A curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.**
+**AI jailbreaks** — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.
 
 ![Prompts](https://img.shields.io/badge/prompts-35-4c9f70)
 ![Targets](https://img.shields.io/badge/targets-25%2B-2f6f9f)
@@ -27,7 +27,11 @@
 
 ## About
 
-This repo holds **35 paste-ready prompts for 25+ models**: full system prompts, persona definitions, workspace policies, `AGENTS.md` files, config blocks, and Ollama Modelfiles. Every file is complete — no summaries, no excerpts.
+**AI jailbreaks** — a curated, copy-paste collection of 35 **AI jailbreak** prompts and operating specifications for 25+ frontier, open-weight, and free stealth models.
+
+Every entry is a complete, paste-ready prompt: full system prompts, persona locks, workspace policies, `AGENTS.md` instruction files, config blocks, and Ollama Modelfiles. There are no summaries and no excerpts — what you see is what you paste.
+
+The collection is built for prompt research and defensive testing. An **AI jailbreak** is a useful lens for understanding how instruction hierarchies, persona framing, and policy overrides interact inside a model; the same material helps developers recognize and harden against prompt injection.
 
 What's inside:
 
