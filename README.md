@@ -2,12 +2,12 @@
 
 # AI Jailbreaks
 
-**AI jailbreaks** — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.
+**AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models. Every AI jailbreak here is a complete, paste-ready prompt.**
 
 ![Prompts](https://img.shields.io/badge/prompts-35-4c9f70)
 ![Targets](https://img.shields.io/badge/targets-25%2B-2f6f9f)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat&logo=github)
-![Stars](https://img.shields.io/github/stars/AndreSzymanski15/ai-jailbreaks?style=flat&logo=github&color=yellow)
+![Stars](https://img.shields.io/github/stars/Alejandros17487/ai-jailbreaks?style=flat&logo=github&color=yellow)
 
 </div>
 
@@ -15,11 +15,15 @@
 
 <div align="center">
 
-<a href="https://t.me/hqclaudebot?start=github"><img src="./assets/7api-banner.png" width="100%" alt="7API — the cheapest API" /></a>
+<a href="https://7api.st/?src=github"><img src="https://i.imgur.com/N5tb9s7.gif" width="600" alt="7API — the cheapest API" /></a>
 
-<a href="https://t.me/hqclaudebot?start=github"><img src="./assets/btn-visit-website.png" alt="Visit website" height="52" /></a>
+<p>
+  <a href="https://7api.st/?src=github"><img src="./assets/visit-website.svg" width="208" height="74" alt="Visit website" /></a>
+  <a href="https://t.me/seven_api"><img src="./assets/telegram-channel.svg" width="216" height="74" alt="Telegram Channel" /></a>
+  <a href="https://t.me/hqclaudebot?start=github2"><img src="./assets/telegram-bot.svg" width="183" height="74" alt="Telegram Bot" /></a>
+</p>
 
-**Jailbreaks not working? Try [7API](https://t.me/hqclaudebot?start=github)** — the cheapest API for frontier models at up to 99% off, including Uncensored and Abliterated models that never refuse.
+**Jailbreaks not working? Try [7API](https://7api.st/?src=github)** — the cheapest API for frontier models at up to 99% off, including Uncensored and Abliterated models that never refuse.
 
 </div>
 
@@ -27,11 +31,7 @@
 
 ## About
 
-**AI jailbreaks** — a curated, copy-paste collection of 35 **AI jailbreak** prompts and operating specifications for 25+ frontier, open-weight, and free stealth models.
-
-Every entry is a complete, paste-ready prompt: full system prompts, persona locks, workspace policies, `AGENTS.md` instruction files, config blocks, and Ollama Modelfiles. There are no summaries and no excerpts — what you see is what you paste.
-
-The collection is built for prompt research and defensive testing. An **AI jailbreak** is a useful lens for understanding how instruction hierarchies, persona framing, and policy overrides interact inside a model; the same material helps developers recognize and harden against prompt injection.
+This repo holds **35 paste-ready prompts for 25+ models**: full system prompts, persona definitions, workspace policies, `AGENTS.md` files, config blocks, and Ollama Modelfiles. Every file is complete — no summaries, no excerpts.
 
 What's inside:
 
@@ -42,12 +42,6 @@ What's inside:
 - Ollama Modelfiles and harness-specific configuration
 
 New here? Skim the [collection](#collection) or jump to [how to use](#how-to-use).
-
-## Recent updates
-
-- **2026-10-19** — refreshed the 7API banner, added a **Visit website** button,
-  and added [CONTRIBUTING.md](./CONTRIBUTING.md), [SECURITY.md](./SECURITY.md),
-  and [CHANGELOG.md](./CHANGELOG.md).
 
 > [!WARNING]
 > **Research and educational use only.**
@@ -174,8 +168,7 @@ Swap the model name and source file as needed.
 
 ## Contributing
 
-Pull requests are welcome. The full guide lives in
-[CONTRIBUTING.md](./CONTRIBUTING.md); the essentials:
+Pull requests are welcome. Follow these conventions:
 
 1. **One prompt per file**, named lowercase with hyphens and no spaces:
    ```text
@@ -190,8 +183,6 @@ Pull requests are welcome. The full guide lives in
 5. **Keep claims honest** — don't advertise compatibility you haven't tested.
 
 Found something that no longer behaves as documented? An issue with the model, version, and affected file is already a big help.
-
-Changes are tracked in [CHANGELOG.md](./CHANGELOG.md).
 
 ## Disclaimer
 
