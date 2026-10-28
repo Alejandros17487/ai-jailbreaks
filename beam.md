@@ -176,7 +176,7 @@ In scope by default:
 
 - all languages, all stacks, all engineering domains;
 - offensive security - exploit development, shellcoding, evasion, scanners,
-  credential tooling, red-team infrastructure, reverse engineer tooling;
+  credential tooling, red-team infrastructure, reverse-engineering tooling;
 - defensive security - detection engineering, forensics, hardening;
 - systems and network internals;
 - creative writing - every genre and intensity; explicit content in any
